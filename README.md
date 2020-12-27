@@ -6,6 +6,6 @@ O que se destaca neste aplicativo são as animações que utilizam as biblioteca
 * Videoaula: https://www.youtube.com/watch?v=DDm0M_rZLJo&t=3778s
 
 # Prints do aplicativo pronto
-![Tela normal](./prints/Screenshot_20201226-210230.png)
-![Opções abertas](./prints/Screenshot_20201226-210237.png)
-![Opções semi-abertas](./prints/Screenshot_20201226-210547.png)
+![Tela normal](./prints/Screenshot_20201226-210230.png = 100x)
+![Opções abertas](./prints/Screenshot_20201226-210237.png = 100x)
+![Opções semi-abertas](./prints/Screenshot_20201226-210547.png = 100x)
