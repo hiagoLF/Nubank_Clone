@@ -6,8 +6,8 @@ O que se destaca neste aplicativo são as animações que utilizam as biblioteca
 * Videoaula: https://www.youtube.com/watch?v=DDm0M_rZLJo&t=3778s
 
 # Prints do aplicativo pronto
-<div display='flex'>
-    <img src="./prints/Screenshot_20201226-210230.png" alt="print 1" width="200"/>
-    <img src="./prints/Screenshot_20201226-210237.png" alt="print 2" width="200"/>
-    <img src="./prints/Screenshot_20201226-210547.png" alt="print 3" width="200"/>
+<div display='flex' justify>
+    <img src="./prints/Screenshot_20201226-210230.png" alt="print 1" width="220"/>
+    <img src="./prints/Screenshot_20201226-210237.png" alt="print 2" width="220"/>
+    <img src="./prints/Screenshot_20201226-210547.png" alt="print 3" width="220"/>
 </div>
